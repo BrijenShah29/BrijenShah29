@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brijen! <br/><a href="https://www.linkedin.com/in/brijen-shah-78745a114">Cybersecurity Professional</a>, <a href="https://github.com/BrijenShah29">Programmer</a>, <a href="https://www.linkedin.com/in/brijen-shah-78745a114">Lifelong Learner"</a></h1>
+<h1>Hi, I'm Brijen! <br/><a href="https://www.linkedin.com/in/brijen-shah-78745a114">Cybersecurity Professional</a>, <a href="https://github.com/BrijenShah29">Programmer</a>, <a href="https://www.linkedin.com/in/brijen-shah-78745a114">Lifelong Learner</a></h1>
 
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
@@ -13,9 +13,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Live Cyber Attack VM Honeypot With Azure Sentinel (SIEM) Project </b>
+  - [Azure VM Honeypot and Sentinel SIEM](https://github.com/BrijenShah29/Cybersecurity-Projects/blob/main/Live%20Cyber%20Attack%20Cloud%20VM%20Honeypot%20with%20Azure%20Project.pdf)
 - <b>Portfolio Project: Power BI Data Visualization for U.S. Health and Human Services</b>
   - [Power BI Data Visualization Project](https://github.com/BrijenShah29/Cybersecurity-Projects/blob/main/Portfolio%20Project_%20Power%20BI%20Data%20visualization.pdf)
-
+- <b>Home SIEM Lab with Elastic Cloud</b>
+  - [Elastic And Kali Linux VM](https://github.com/BrijenShah29/Cybersecurity-Projects/blob/main/Elastic%20Home%20SIEM%20Lab.pdf)
+- <b>Vulnerabilty Management & Penetration Testing Project</b>
+  - [Nessus with Kali Linux and victim Windows 10 machine](https://github.com/BrijenShah29/Cybersecurity-Projects/blob/main/Vulnerability%20Management%20%26%20Penetration%20Testing%20Project.pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
